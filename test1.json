@@ -1,0 +1,54 @@
+{
+  "typ": "JWT",
+  "nonce": "rciFrkuWa1AClTZyl8xmCfPqi-ASIt0HDe_zI8TDBZc",
+  "alg": "RS256",
+  "x5t": "z1rsYHHJ9-8mggt4HsZu8BKkBPw",
+  "kid": "z1rsYHHJ9-8mggt4HsZu8BKkBPw"
+}.{
+  "aud": "00000003-0000-0000-c000-000000000000",
+  "iss": "https://sts.windows.net/bf475492-067f-4d6e-989f-776b97a19cd9/",
+  "iat": 1736313033,
+  "nbf": 1736313033,
+  "exp": 1736318297,
+  "acct": 0,
+  "acr": "1",
+  "aio": "AWQAm/8YAAAA6kKz6W7LodBtwdQGyUVOTDERv3c/lyTMbvyLSizRo2aIuGPW8GNGHfuSJBr5mMuZV2t6AQp5nDZ27YOzmSO+9fIX78zCZ4YaQWISuwxh9AHCXGXqHl0TI8d+mGGbbD4b",
+  "altsecid": "1:live.com:0006BFFD37BF1F40",
+  "amr": [
+    "pwd"
+  ],
+  "app_displayname": "androidMsalApp",
+  "appid": "a777c7c4-09f2-4cf9-9605-96b82323b611",
+  "appidacr": "0",
+  "email": "nbokaei1982@hotmail.com",
+  "family_name": "bk",
+  "given_name": "Nima",
+  "idp": "live.com",
+  "idtyp": "user",
+  "ipaddr": "2604:7a40:312:3e30:3037:7cd2:9c85:9978",
+  "name": "Nima bk",
+  "oid": "d4386026-06a0-4bd3-9c39-a05ebda0a30c",
+  "platf": "1",
+  "puid": "10032003227EE364",
+  "rh": "1.AW8AklRHv38Gbk2Yn3drl6Gc2QMAAAAAAAAAwAAAAAAAAADRAG9vAA.",
+  "scp": "openid profile User.Read email",
+  "signin_state": [
+    "kmsi"
+  ],
+  "sub": "ABCgEqojKALI2TZS44eWfNCJKuooO2rCtTD5JEjK75Y",
+  "tenant_region_scope": "NA",
+  "tid": "bf475492-067f-4d6e-989f-776b97a19cd9",
+  "unique_name": "live.com#nbokaei1982@hotmail.com",
+  "uti": "3dSlbNCncka_sairtTqdAQ",
+  "ver": "1.0",
+  "wids": [
+    "62e90394-69f5-4237-9190-012177145e10",
+    "b79fbf4d-3ef9-4689-8143-76b194e85509"
+  ],
+  "xms_ftd": "RFgw50NI_8iJNutyjvORRlxFwYJaEUFUUxtHiuUPPL4",
+  "xms_idrel": "1 16",
+  "xms_st": {
+    "sub": "1gOnQu-4EaNFXhFkT0pyXSu6kLFvSS0Tq-8vjiU6n88"
+  },
+  "xms_tcdt": 1701714265
+}.[Signature]
